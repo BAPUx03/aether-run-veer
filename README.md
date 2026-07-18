@@ -29,6 +29,30 @@
 
 > **Play link note:** The buttons above use `https://aether-run-veer.vercel.app` as the expected Vercel URL. Replace it with your final Vercel URL after deployment.
 
+<div align="center">
+
+## ✨ Watch Veer come alive ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=24&duration=2200&pause=500&color=F3A24A&center=true&vCenter=true&width=720&lines=%F0%9F%8F%83+RUN+%E2%80%A2+%F0%9F%AA%82+JUMP+%E2%80%A2+%E2%9A%A1+DASH;%F0%9F%92%8E+COLLECT+SKY+SHARDS+%E2%80%A2+%F0%9F%8C%9F+SAVE+THE+SKY;%F0%9F%8C%A9%EF%B8%8F+FACE+GRAVOX+%E2%80%A2+%F0%9F%8C%85+BECOME+VEER" alt="Animated Aether Run game showcase" />
+
+<img src="public/og.png" alt="Aether Run: Veer Skybound promotional artwork" width="820" />
+
+</div>
+
+### 🌈 Explore the sky map
+
+<table>
+  <tr>
+    <td><img src="public/game/worlds/emerald-heights.webp" alt="Emerald Heights world" width="250" /><br /><strong>🌿 Emerald Heights</strong></td>
+    <td><img src="public/game/worlds/crystal-caverns.webp" alt="Crystal Caverns world" width="250" /><br /><strong>💎 Crystal Caverns</strong></td>
+    <td><img src="public/game/worlds/thar-sky-palace.webp" alt="Thar Sky Palace world" width="250" /><br /><strong>🏜️ Thar Sky Palace</strong></td>
+  </tr>
+  <tr>
+    <td><img src="public/game/worlds/frostpeak-isles.webp" alt="Frostpeak Isles world" width="250" /><br /><strong>❄️ Frostpeak Isles</strong></td>
+    <td><img src="public/game/worlds/lotus-ghats.webp" alt="Lotus Ghats world" width="250" /><br /><strong>🌸 Lotus Ghats</strong></td>
+    <td><img src="public/game/worlds/storm-citadel.webp" alt="Storm Citadel world" width="250" /><br /><strong>⚡ Storm Citadel</strong></td>
+  </tr>
+</table>
 ## The adventure
 
 Veer is a young skybound explorer carrying a saffron scarf, a fearless heart and the last light of the Surya Shards. Across seven handcrafted rounds, he must cross emerald hills, crystal caverns, desert forts, moonlit peaks, lotus ghats, floating dunes and the storm-wrapped Meghraj Citadel.
@@ -37,17 +61,17 @@ Every round is built for movement: momentum matters, jumps can be saved with coy
 
 ## What makes it fun
 
-- **Seven distinct worlds** with original Indian-fantasy atmosphere
-- **Responsive platforming** with acceleration, variable-height jumps, jump buffering and coyote time
-- **Double jump, stomp and sky dash** unlocked as the journey progresses
-- **21 collectible Sky Shards** — three hidden in every round
-- **Surya Coin wallet** that persists between runs
-- **Four animated Veer skins**: Classic, Royal Guard, Monsoon Rider and Night Raahi
-- **Enemies, hazards, moving platforms, checkpoints and secrets**
-- **A final boss battle** against Gravox, Keeper of the Storm
-- **Keyboard and mobile touch controls** designed for landscape play
-- **Synthesised music and sound effects** with a reduced-motion setting
-- **Local save progress** for scores, times, shards, coins, unlocks and settings
+- **🌍 Seven distinct worlds** with original Indian-fantasy atmosphere
+- **🎮 Responsive platforming** with acceleration, variable-height jumps, jump buffering and coyote time
+- **🪂 Double jump, stomp and sky dash** unlocked as the journey progresses
+- **💎 21 collectible Sky Shards** — three hidden in every round
+- **🪙 Surya Coin wallet** that persists between runs
+- **👕 Four animated Veer skins**: Classic, Royal Guard, Monsoon Rider and Night Raahi
+- **👾 Enemies, hazards, moving platforms, checkpoints and secrets**
+- **👹 A final boss battle** against Gravox, Keeper of the Storm
+- **📱 Keyboard and mobile touch controls** designed for landscape play
+- **🎵 Synthesised music and sound effects** with a reduced-motion setting
+- **💾 Local save progress** for scores, times, shards, coins, unlocks and settings
 
 ## World map
 
